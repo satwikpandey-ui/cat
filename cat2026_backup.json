@@ -1,0 +1,33 @@
+{
+  "errors": null,
+  "formulas": null,
+  "sessions": null,
+  "tracker": {
+    "2026-05-12": {
+      "varc": true,
+      "books": true,
+      "dilr": true,
+      "gym": true,
+      "quants": false,
+      "aeon": false,
+      "aeon_1": false,
+      "aeon_2": false,
+      "hindu": false,
+      "hindu_fp": false,
+      "hindu_ed": false,
+      "hindu_op": false
+    }
+  },
+  "dilr": null,
+  "quants": null,
+  "syllabus": null,
+  "settings": null,
+  "mocks": null,
+  "tracker_schedules": null,
+  "tracker_custom_tasks": null,
+  "cal_events": null,
+  "tasks": null,
+  "vocab": null,
+  "_exported": "2026-05-25T06:39:04.766Z",
+  "_version": "cat2026_v1"
+}
